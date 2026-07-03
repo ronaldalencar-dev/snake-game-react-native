@@ -3,8 +3,6 @@
 A classic Snake game recreated using **React Native** and **Expo**.
 This project was developed to study game logic, state management, and mobile animations.
 
-<img src="https://via.placeholder.com/300x600?text=Game+Screenshot+Here" alt="Game Screenshot" width="200" />
-
 ##  Technologies Used
 
 * **React Native** (Logic & Interface)
